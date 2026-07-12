@@ -17,7 +17,7 @@ By organizing the walkthrough into separate sections, viewers can follow the inv
 
 To view the project walkthrough:
 
-1. Navigate to the repository's main page on GitHub.
-2. Select the project icon then select which Project you wish to view.
-3. Click the project details in top-right corner.
+1. Navigate to the Project's main page on GitHub.
+2. Select which Project you wish to view.
+3. Click the project details in top-right corner next to Issues/Workflows.
 The walkthrough is designed to make the project easy to follow for recruiters, cybersecurity professionals, and anyone interested in understanding the investigation process.
